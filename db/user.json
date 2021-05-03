@@ -1,0 +1,27 @@
+{
+    "username": "alvaroraposo@gmail.com.br",
+    "password": "123456",
+    "firstname": "Álvaro",
+    "lastname": "Raposo",
+    "birthdate": "09/06/1982",
+    "gender": "Masculino",
+    "cpf": "51169614272",
+    "rg": "13895974",
+    "cellphone": "996088120",
+    "fixedphone": "",
+    "fullAddress" : {
+        "type": "Apartamento",
+        "owner": "Álvaro Raposo",
+        "cep": "69040080",
+        "address": "Rua Brigadeiro João Camarão",
+        "number": "39",
+        "complement": "Condomínio Solar dos Franceses 2, apt 602, torre marselha",
+        "district": "Dom Pedro",
+        "city": "Manaus",
+        "state": "Amazonas",
+        "reference": "Arte Pedras"        
+    },
+    "scopes": [
+        "users:access"
+    ]
+}
