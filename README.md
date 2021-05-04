@@ -1,4 +1,6 @@
 # Back-end para a tela de login proposta como desafio pela empresa Bemol.
+## O front-end com a aplicação que faz acesso a essa aplicação está disponível em: https://desafiobemol.netlify.app/
+
 # O software compreende duas lambdas.
 ## 1. login. Responsável pela validação (Pacote Hapi/Joi) do e-mail e password enviados pelo usuário
 ### após a validação é feita uma query ao banco de dados AWS/DynamoDB para a busca e comparação do e-mail e password requisitados.
